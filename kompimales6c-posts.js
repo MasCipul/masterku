@@ -1,5 +1,7 @@
 function toggleVisibility(e){visibleDivId=visibleDivId===e?null:e,hideNonVisibleDivs()}function hideNonVisibleDivs(){var e,n,i;for(e=0;e<divs.length;e++)n=divs[e],i=document.getElementById(n),visibleDivId===n?i.style.display="block":i.style.display="none"}
 
+var disqus_url=disqus_blogger_current_url;!function(){"use strict";var e=function(){var e=document.getElementById("comments");return e||(e=document.getElementById("disqus-blogger-comment-block")),e},n=e();if(n){var i=document.createElement("div");i.id="disqus_thread",n.innerHTML="",n.appendChild(i),n.style.display="block";var s=document.createElement("script");s.async=!0,s.src="//"+disqus_shortname+".disqus.com/embed.js",(document.getElementsByTagName("head")[0]||document.body).appendChild(s)}}(),!function(e,n,i){var s,t=e.getElementsByTagName(n)[0];e.getElementById(i)||(s=e.createElement(n),s.id=i,s.src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3",t.parentNode.insertBefore(s,t))}(document,"script","facebook-jssdk");var divs=["disqus-box","blogger-box","facebook-box"],visibleDivId=null;$(".commentbtn").click(function(){$(this).addClass("btncurrent").siblings().removeClass("btncurrent")});
+
 function openCommentForm() {
   document.getElementById("comment-form").style.display = "block";document.getElementById("opencomment").style.display = "none";
 };
