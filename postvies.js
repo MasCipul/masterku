@@ -1,3 +1,5 @@
+<script src='https://cdn.firebase.com/v0/firebase.js' type='text/javascript'/>
+<script type='text/javascript'>
 $.each($(&#39;a[name]&#39;), function(i, e) { 
 var elem = $(e).parent().find(&#39;#postviews&#39;); 
 var blogStats = new Firebase(&quot;https://counterpost-blogger.firebaseio.com/pages/id/&quot; + $(e).attr(&#39;name&#39;)); 
@@ -22,3 +24,4 @@ blogStats.child(&#39;value&#39;).set(data.value);
 } 
 }); 
 }); 
+</script>
