@@ -1,4 +1,4 @@
-                var disqus_shortname = &quot;spotbaru&quot;;
+                var disqus_shortname = &quot;wikisantri&quot;;
                 var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
                 if (!disqus_blogger_current_url.length) {
                     disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
