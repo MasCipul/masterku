@@ -15528,7 +15528,7 @@ blockquote {
 }
 
 .featured-image {
-  display: block;
+  display: none;
   margin: 0px auto;
   margin-bottom: 1.5rem;
 }
