@@ -6,7 +6,7 @@
   "lang": "id-ID",
   "display": "standalone",
   "background_color": "#27468d",
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "https://netizen.mbois.co/",
   "theme_color": "#9C80D7",
   "orientation": "portrait",
   "icons": [
