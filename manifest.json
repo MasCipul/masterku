@@ -1,13 +1,13 @@
 
 {
-  "name": "The Hacker News",
-  "short_name": "THN",
-  "description": "Leading Cybersecurity News Site",
-  "lang": "en-US",
+  "name": "Netizen Mbois",
+  "short_name": "NET Mbois",
+  "description": "Informatif dan Kreatif",
+  "lang": "id-ID",
   "display": "standalone",
   "background_color": "#27468d",
   "start_url": "/?utm_source=homescreen",
-  "theme_color": "#395697",
+  "theme_color": "#9C80D7",
   "orientation": "portrait",
   "icons": [
     {
@@ -52,6 +52,6 @@
     }
   ],
   "serviceworker": {
-    "src": "./sw.js"
+    "src": ".https://thehackernews.com/sw.js"
   }
 }
