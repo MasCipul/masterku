@@ -52,6 +52,6 @@
     }
   ],
   "serviceworker": {
-    "src": ".https://thehackernews.com/sw.js"
+    "src": "https://cdn.statically.io/gh/MasCipul/masterku/b30aca88/pwabuilder-sw.js"
   }
 }
