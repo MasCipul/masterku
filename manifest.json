@@ -1,0 +1,30 @@
+{
+	"dir" : "ltr",
+	"lang" : "id",
+	"name" : "Netizen Mbois",
+	"scope" : "/",
+	"display" : "standalone",
+	"start_url" : "https://netizen.mbois.co/",
+	"short_name" : "Netizen Mbois",
+	"theme_color" : "transparent",
+	"description" : "Dibuat untuk Netizen Mbois, beragam info wanita dan resep makanan",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "https://netizen.mbois.co/favicon.ico",
+			"sizes": "32x32 16x16"
+		},
+		{
+			"src": "https://netizen.mbois.co/favicon.ico",
+			"sizes": "32x32 16x16"
+		},
+		{
+			"src": "https://netizen.mbois.co/favicon.ico",
+			"sizes": "32x32 16x16"
+		}],
+	"url" : "https://netizen.mbois.co/",
+	"generated" : "true"
+}
