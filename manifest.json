@@ -1,57 +1,24 @@
-
 {
-  "name": "Netizen Mbois",
-  "short_name": "NET Mbois",
-  "description": "Informatif dan Kreatif",
-  "lang": "id-ID",
-  "display": "standalone",
-  "background_color": "#27468d",
-  "start_url": "https://netizen.mbois.co/",
-  "theme_color": "#9C80D7",
-  "orientation": "portrait",
-  "icons": [
-    {
-      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s32-e100/thn.jpg",
-      "sizes": "32x32"
-    },
-    {
-      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s72-e100/thn.png",
-      "sizes": "72x72"
-    },
-    {
-      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s96-e100/thn.png",
-      "sizes": "96x96"
-    },
-    {
-      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s128-e100/thn.png",
-      "sizes": "128x128"
-    },
-    {
-      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s144-e100/thn.png",
-      "sizes": "144x144"
-    },
-    {
-      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s152-e100/thn.png",
-      "sizes": "152x152"
-    },
-    {
-      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s192-e100/thn.png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s384-e100/thn.png",
-      "sizes": "384x384"
-    },
-    {
-      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s512-e100/thn.png",
-      "sizes": "512x512"
-    },
-    {
-      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s1024-e100/thn.png",
-      "sizes": "1024x1024"
-    }
-  ],
-  "serviceworker": {
-    "src": "https://cdn.statically.io/gh/MasCipul/masterku/b30aca88/pwabuilder-sw.js"
-  }
+    "name": "NET.mbois",
+    "short_name": "NET.mbois",
+    "description": "Media Kreatif dan Informatif",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-NnAdOk5COdE/XpsS9TO6JII/AAAAAAAAHJ8/OWMlCWLiQvwv04xliI0lrlWL0g9Z57CdgCNcBGAsYHQ/s1600/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image\/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-vjYA0136h44/XpsTiMGh4qI/AAAAAAAAHKE/sVTRRCcFpeYFh3Qj9_8519TxGI67xBz5ACNcBGAsYHQ/s320/icon-512.png",
+            "sizes": "512x512",
+            "type": "image\/png"
+        }
+    ],
+    "background_color": "#405D9A",
+    "theme_color": "#405D9A",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "https:\/\/netizen.mbois.co\/",
+    "scope": "https:\/\/netizen.mbois.co\/",
+    "gcm_sender_id": "473661937743"
 }
