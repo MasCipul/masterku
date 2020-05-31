@@ -14,8 +14,8 @@
             "type": "image\/png"
         }
     ],
-    "background_color": "#405D9A",
-    "theme_color": "#405D9A",
+    "background_color": "#177b5d",
+    "theme_color": "#177b5d",
     "display": "standalone",
     "orientation": "portrait",
     "start_url": "https:\/\/netizen.mbois.co\/",
