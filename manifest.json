@@ -4,6 +4,29 @@
     "description": "Media Kreatif dan Informatif",
     "icons": [
         {
+            "src": "https://1.bp.blogspot.com/-dSUJtotm-q0/XpsR_17RrRI/AAAAAAAAHJc/rLLh_uaRNnk8d_4Rj_-l7qEcZRAaIq02wCNcBGAsYHQ/s1600/favicon-32x32.png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-rxz3D3muY-4/XpsQtWBjPqI/AAAAAAAAHIc/ouh22xQgvrowr1HaKQHiKC6KVujL2sWJgCNcBGAsYHQ/s1600/android-icon-72x72.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-4p54W23vKgE/XpsSHy0BppI/AAAAAAAAHJg/rRXRTNv6I00IMqzr56YXuMGfdhHXeFmIQCNcBGAsYHQ/s1600/favicon-96x96.png",
+            "sizes": "92x92"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-ovDwHOaiBJ0/XpsRYNngSGI/AAAAAAAAHI4/HaZH86lHgLotTXbh6wYRYkuiokhRUuNAQCNcBGAsYHQ/s1600/apple-icon-120x120.png",
+            "sizes": "128x128"
+        {
+            "src": "https://1.bp.blogspot.com/-_jv38qqAXP4/XpsRRKgXk8I/AAAAAAAAHI0/tS7nPwvdTeQoOh6tAC5DJqYx62ooDzcswCNcBGAsYHQ/s1600/apple-icon-114x114.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-BVFebu1uW5U/XpsRvDo6aAI/AAAAAAAAHJM/l2voVng3WQkb-RXwkh-5ZAR2B7tQsn6qQCNcBGAsYHQ/s1600/apple-icon-152x152.png",
+            "sizes": "152x152"
+        },
+        {
             "src": "https://1.bp.blogspot.com/-NnAdOk5COdE/XpsS9TO6JII/AAAAAAAAHJ8/OWMlCWLiQvwv04xliI0lrlWL0g9Z57CdgCNcBGAsYHQ/s1600/android-icon-192x192.png",
             "sizes": "192x192",
             "type": "image\/png"
@@ -20,5 +43,4 @@
     "orientation": "portrait",
     "start_url": "https:\/\/netizen.mbois.co\/",
     "scope": "https:\/\/netizen.mbois.co\/",
-    "gcm_sender_id": "473661937743"
 }
