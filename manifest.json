@@ -1,46 +1,52 @@
 {
-    "name": "NET.mbois",
-    "short_name": "NET.mbois",
-    "description": "Media Kreatif dan Informatif",
-    "icons": [
-        {
-            "src": "https://1.bp.blogspot.com/-dSUJtotm-q0/XpsR_17RrRI/AAAAAAAAHJc/rLLh_uaRNnk8d_4Rj_-l7qEcZRAaIq02wCNcBGAsYHQ/s1600/favicon-32x32.png",
-            "sizes": "32x32"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-rxz3D3muY-4/XpsQtWBjPqI/AAAAAAAAHIc/ouh22xQgvrowr1HaKQHiKC6KVujL2sWJgCNcBGAsYHQ/s1600/android-icon-72x72.png",
-            "sizes": "72x72"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-4p54W23vKgE/XpsSHy0BppI/AAAAAAAAHJg/rRXRTNv6I00IMqzr56YXuMGfdhHXeFmIQCNcBGAsYHQ/s1600/favicon-96x96.png",
-            "sizes": "92x92"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-ovDwHOaiBJ0/XpsRYNngSGI/AAAAAAAAHI4/HaZH86lHgLotTXbh6wYRYkuiokhRUuNAQCNcBGAsYHQ/s1600/apple-icon-120x120.png",
-            "sizes": "128x128"
-        {
-            "src": "https://1.bp.blogspot.com/-_jv38qqAXP4/XpsRRKgXk8I/AAAAAAAAHI0/tS7nPwvdTeQoOh6tAC5DJqYx62ooDzcswCNcBGAsYHQ/s1600/apple-icon-114x114.png",
-            "sizes": "144x144"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-BVFebu1uW5U/XpsRvDo6aAI/AAAAAAAAHJM/l2voVng3WQkb-RXwkh-5ZAR2B7tQsn6qQCNcBGAsYHQ/s1600/apple-icon-152x152.png",
-            "sizes": "152x152"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-NnAdOk5COdE/XpsS9TO6JII/AAAAAAAAHJ8/OWMlCWLiQvwv04xliI0lrlWL0g9Z57CdgCNcBGAsYHQ/s1600/android-icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image\/png"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-vjYA0136h44/XpsTiMGh4qI/AAAAAAAAHKE/sVTRRCcFpeYFh3Qj9_8519TxGI67xBz5ACNcBGAsYHQ/s320/icon-512.png",
-            "sizes": "512x512",
-            "type": "image\/png"
-        }
-    ],
-    "background_color": "#177b5d",
-    "theme_color": "#177b5d",
-    "display": "standalone",
-    "orientation": "portrait",
-    "start_url": "https:\/\/netizen.mbois.co\/",
-    "scope": "https:\/\/netizen.mbois.co\/",
+  "name": "Netizen Mbois",
+  "short_name": "NET.mbois",
+  "description": "Info menarik setiap hari",
+  "lang": "id-ID",
+  "display": "standalone",
+  "background_color": "#27468d",
+  "start_url": "/?utm_source=homescreen",
+  "theme_color": "#2B9A79",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-dSUJtotm-q0/XpsR_17RrRI/AAAAAAAAHJc/rLLh_uaRNnk8d_4Rj_-l7qEcZRAaIq02wCNcBGAsYHQ/s1600/favicon-32x32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-rxz3D3muY-4/XpsQtWBjPqI/AAAAAAAAHIc/ouh22xQgvrowr1HaKQHiKC6KVujL2sWJgCNcBGAsYHQ/s1600/android-icon-72x72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-4p54W23vKgE/XpsSHy0BppI/AAAAAAAAHJg/rRXRTNv6I00IMqzr56YXuMGfdhHXeFmIQCNcBGAsYHQ/s1600/favicon-96x96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s128-e100/thn.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-W4PY7A5_qbk/XpsRnJ8hjNI/AAAAAAAAHJE/imPHh7dLiMgLLNp9KHUjP8u3XtH_vF2dgCNcBGAsYHQ/s1600/apple-icon-144x144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-BVFebu1uW5U/XpsRvDo6aAI/AAAAAAAAHJM/l2voVng3WQkb-RXwkh-5ZAR2B7tQsn6qQCNcBGAsYHQ/s1600/apple-icon-152x152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s192-e100/thn.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s384-e100/thn.png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-vjYA0136h44/XpsTiMGh4qI/AAAAAAAAHKE/sVTRRCcFpeYFh3Qj9_8519TxGI67xBz5ACNcBGAsYHQ/s1600/icon-512.png",
+      "sizes": "512x512"
+    }
+  ],
+  "serviceworker": {
+    "src": "./sw.js"
+  }
 }
