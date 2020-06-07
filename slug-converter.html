@@ -1,0 +1,40 @@
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+<style>
+  #getSlug {
+    margin:20px 0;
+    display:grid;
+    grid-template-columns:1fr auto;
+    border:1px solid #222;
+    border-radius:4px;
+    overflow:hidden;
+    }
+  #getSlug > * {
+    display:block;
+    width:100%;
+    text-align:center;
+    padding:10px 15px;
+    border:0;
+  }
+  #getSlug button {
+    background:#222;
+    color:#fff;
+    }
+</style>
+<div id="getSlug">
+  <input placeholder="Masukan Judul.." type="text" />
+  <button>Generate!</button>
+</div>
+<script>
+function convertToSlug(Text)
+{
+    return Text
+        .toLowerCase()
+        .replace(/ /g,'-')
+        .replace(/[^\w-]+/g,'')
+        ;
+}
+$('#getSlug').on('click','button', function(){
+  var getTitle = $(this).closest('#getSlug').find('input').val();
+  $(this).closest('#getSlug').find('input').val(convertToSlug(getTitle)).select();
+});
+</script>
